@@ -1,0 +1,124 @@
+2026-01-24 23:34:10.947 | SUCCESS  | __main__:<module>:8 - Inicio del proceso
+2026-01-24 23:34:10.950 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:34:10.951 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:34:10.951 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 13 activas
+2026-01-24 23:34:20.956 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:34:20.958 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:34:20.959 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 13 activas
+2026-01-24 23:34:30.963 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:34:30.965 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:34:30.966 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:34:40.971 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:34:40.973 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:34:40.974 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:34:50.979 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:34:50.981 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:34:50.982 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:35:00.987 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:35:00.989 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:35:00.989 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:35:10.994 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:35:10.995 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:35:10.996 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:35:20.999 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:35:21.000 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:35:21.000 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:35:31.004 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:35:31.006 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:35:31.007 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:35:41.012 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:35:41.014 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:35:41.015 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:35:51.018 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:35:51.019 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:35:51.020 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:36:01.021 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:36:01.022 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:36:01.023 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:36:11.027 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:36:11.029 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:36:11.030 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:36:21.034 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:36:21.037 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:36:21.038 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:36:31.042 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:36:31.044 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:36:31.045 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:36:41.049 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:36:41.051 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:36:41.051 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:36:51.056 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:36:51.058 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:36:51.060 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:37:01.064 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:37:01.067 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:37:01.068 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:37:11.072 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:37:11.074 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:37:11.076 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:37:21.080 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:37:21.082 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:37:21.083 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:37:31.087 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:37:31.089 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:37:31.090 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:37:41.094 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:37:41.096 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:37:41.097 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:37:51.099 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:37:51.100 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:37:51.100 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:38:01.104 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:38:01.105 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:38:01.106 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:38:11.111 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:38:11.113 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:38:11.114 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:38:21.116 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:38:21.118 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:38:21.118 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:38:31.121 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:38:31.123 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:38:31.124 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:38:41.128 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:38:41.130 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:38:41.131 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:38:51.136 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:38:51.138 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:38:51.139 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:39:01.143 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:39:01.145 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:39:01.146 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:39:11.150 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:39:11.152 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:39:11.153 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:39:21.157 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:39:21.159 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:39:21.161 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:39:31.163 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:39:31.164 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:39:31.165 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:39:41.168 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:39:41.169 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:39:41.169 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:39:51.173 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:39:51.174 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:39:51.175 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:40:01.177 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:40:01.178 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:40:01.179 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:40:11.182 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:40:11.184 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:40:11.185 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:40:21.188 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:40:21.190 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:40:21.191 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:40:31.195 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:40:31.196 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:40:31.197 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas
+2026-01-24 23:46:28.069 | SUCCESS  | __main__:<module>:8 - Inicio del proceso
+2026-01-24 23:46:28.072 | ERROR    | model.conexion_db:get_conexion_db:23 - 1044 (42000): Access denied for user ''@'localhost' to database 'antena'
+2026-01-24 23:48:39.399 | SUCCESS  | __main__:<module>:8 - Inicio del proceso
+2026-01-24 23:48:39.401 | SUCCESS  | model.conexion_db:get_conexion_db:9 - Conexión a la db correctamente
+2026-01-24 23:48:39.402 | INFO     | model.antenas:get_antenas_activas:8 - Conexión a la DB cerrada correctamente
+2026-01-24 23:48:39.402 | INFO     | functions.get_antenas:get_antenas:7 - Se encontraron 12 activas

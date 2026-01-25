@@ -1,15 +1,14 @@
-from conexion_db import conn
+from model.conexion_db import get_conexion_db
+from loguru import logger
 class Antenas():
-    def __init__(self):
-        self.cursor = conn.cursor()
-
     def get_antenas_activas(self):
-        self.cursor.execute("SELECT * FROM `antenas` WHERE estado='activo'")
-        return self.cursor.fetchall()
+        conn = get_conexion_db()
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM `antenas` WHERE estado='activo'")
+        logger.info("Conexión a la DB cerrada correctamente")
+        resul = cursor.fetchall()
+        conn.close()
+        return resul
+        
 
 
-antena = Antenas()
-antenas_activas = antena.get_antenas_activas()
-
-for row in antenas_activas:
-    print(row)
