@@ -7,6 +7,7 @@ class Antenas():
         cursor.execute("SELECT * FROM `antenas` WHERE estado='activo'")
         logger.info("Conexión a la DB cerrada correctamente")
         resul = cursor.fetchall()
+        logger.success("Consulta ejecutada correctamente")
         conn.close()
         return resul
         
