@@ -1,6 +1,6 @@
 # Reporte de antenas de telecomunicaciones automatizado.
 
-Aplicación de terminal que permite obtener antenas de teleconomunicaciones activas. Generando reportes automaticos.
+Aplicación de terminal que permite obtener antenas de telecomunicaciones activas. Generando reportes automáticos.
 
 ## Uso
 
