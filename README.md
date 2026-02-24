@@ -1,39 +1,53 @@
-# Reporte de antenas de telecomunicaciones automatizado.
+# Reporte de antenas de telecomunicaciones automatizado
 
-Aplicación de terminal que permite obtener antenas de telecomunicaciones activas. Generando reportes automáticos.
+Script automatizado en Python diseñado para la monitorización de infraestructura de telecomunicaciones. El script realiza consultas iterativas a una base de datos para identificar antenas activas y generar reportes de estado.
+
+## Funcionalidades Técnicas
+
+* **Automatización de consultas**: Extracción de antenas de telecomunicacines activas.
+
+* **Generación de Logs**: Sistema de registro de historicos con reporte de antenas activas.
+
+## Estrucutra del Script
+
+* **main.py**: Lógica central y flujo de ejecución del script.
+* **model/**: Conexión y consultas a la base de datos.
+* **requirements.txt**: Dependencias mínimas necesarias.
 
 ## Uso
 
-1. Configurar archivo model/conexion_db.py con credenciales de acceso a la base de datos.
+1. **Configuración**: Editar model/conexion_db.py con las credenciales de acceso a la base de datos.
 
-2. Crear entorno virtual.
+2. **Entorno virtual**:
 
-
-    linux
+    linux:
 
     ```
     python3 -m venv /path/to/new/virtual/environment 
     ```
 
-    Windows
+    Windows:
     
     ```
     python -m venv /path/to/new/virtual/environment
     ```
-3. Instalar paquetes necesarios
+
+3. **Instalar dependencias:**
+
     ```
     pip install -r requirements.txt
 
     ```
+
 4. Ejecutar main.py
 
-    linux
+    linux:
 
     ```
     python3 main.py
     ```
 
-    Windows
+    Windows:
     
     ```
     python main.py
